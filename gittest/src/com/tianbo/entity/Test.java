@@ -8,6 +8,7 @@ public class Test {
 
     public String test(){
         Integer a;
+        Integer b;
         return  null;
     }
 }
