@@ -9,6 +9,7 @@ public class Test {
     public String test(){
         Integer a;
         Integer b;
+        Integer c;
         return  null;
     }
 }
