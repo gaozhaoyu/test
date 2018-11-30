@@ -7,6 +7,7 @@ public class Test {
     public Integer i;
 
     public String test(){
+        Integer a;
         return  null;
     }
 }
